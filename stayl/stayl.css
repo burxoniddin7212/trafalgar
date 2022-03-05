@@ -1,0 +1,188 @@
+body{
+    width: 1300px;
+    
+}
+ul{
+    list-style: none;
+    display: inline-block;
+    text-align: right;
+}
+
+.l1{
+    display: inline-block;
+}
+.im1{
+    display: inline;
+    
+}
+.a1{
+    opacity: 0.5;
+    text-decoration: none;
+}
+.a2{
+opacity: 1;
+}
+.p1{
+   opacity: 0.5; 
+}
+  .div1{
+      vertical-align: top;
+      width: 450px;
+display: inline-block;
+
+  }
+.im2{
+    display: inline-block;
+}
+.acon{
+    text-decoration: none;
+}
+.st{
+    font-size: 40px;
+}
+.h2{
+    text-align: center;
+}
+.hr{
+    width: 56px;height: 2px ;
+    }
+.c{
+        text-align: center;
+        width: 100%;
+    }
+.p2{
+        text-align: center;
+        opacity: 0.5;       
+    }
+    .ul3{
+        display: inline-block;
+        
+    }
+    .li3{
+        text-align: left;
+        display: inline-block;
+        width: 350px;
+       
+    }
+    .p4{
+        width: 250px;
+        
+        opacity: 0.5;
+    }
+    .aa{
+        color: cadetblue;
+        text-align: center;
+        text-decoration: none;
+    }
+    .im7{
+        display: inline-block;
+    }
+.d7{
+    display: inline-block;
+}
+.d77{
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+}
+.p7{
+    display: inline-block;
+}
+.a7{
+    text-align: center;
+    text-decoration: none;
+}
+.d9{
+    width: 500px;
+    display: inline-block;
+    vertical-align: top;
+}
+.p8{
+    text-align: center;
+}
+.s7{
+    text-align: center;
+}
+.a8{
+    text-align: center;
+    text-decoration: none;
+}
+.im9{
+    display: inline-block;
+}
+.a88{
+    text-decoration: none;
+}
+.d10{
+    width: 700px;
+    height: 300px;
+    background-color: cadetblue
+}
+.p11{
+    text-align: center;
+}
+.hr11{
+    text-align: center;
+    width: 56px; height: 2px;
+}
+.im11{
+    display: inline-block;
+}
+.p11{
+    width: 400px;
+    text-align: center;
+}
+.bl{
+    display: inline-block;
+}
+.d12{
+    display: inline-block;
+}
+.d11{
+    width: 250px;
+    display: inline-block;
+}
+.d13{
+    text-align: center;
+}
+.hr2{
+    width: 56px; height: 2px;
+    color: black;
+    background-color: black;
+}
+.p13{
+    text-align: left;
+}
+.li13{
+    display: inline-block;
+}
+.a36{
+    display: block
+}
+.ohr{
+    background-color: cadetblue;
+    text-align: center;
+}
+.son{
+    text-align: left;
+    opacity: 0.6;
+}
+.real{
+    color: white;
+    display: inline-block;
+}
+.ah{
+    color: white;
+    text-decoration: none;
+    text-align: left;
+    opacity: 0.6;
+}
+.qh{
+    color: white;
+    text-decoration: none;
+    text-align: left;
+    opacity: 0.6;
+}
+.h{
+    text-align: left;
+}
